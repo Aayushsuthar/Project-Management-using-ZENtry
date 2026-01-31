@@ -1,0 +1,8 @@
+{
+  "name": "ZENtry",
+  "description": "An all-in-one business platform for CRM, project management, collaboration, and HR automation, featuring a built-in AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
