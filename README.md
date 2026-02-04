@@ -1,7 +1,4 @@
 # ZENtry - Enterprise Industrial OS
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![React Version](https://img.shields.io/badge/React-19.2.4-blue) ![TypeScript Version](https://img.shields.io/badge/TypeScript-5.8.2-blue) ![Vite Version](https://img.shields.io/badge/Vite-6.2.0-brightgreen)
-
 ## 🚀 Overview
 
 **ZENtry** is an all-in-one business management platform that unifies CRM, project management, team collaboration, HR automation, and marketing tools into a single, intuitive interface. Powered by advanced AI capabilities, ZENtry enhances productivity with intelligent automation and real-time assistance.
