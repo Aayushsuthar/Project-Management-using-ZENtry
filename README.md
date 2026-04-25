@@ -485,7 +485,7 @@ Security is a top priority:
 
 <div align="center">
   
-  **Made with ❤️ by the ZENtry Team**
+  **Made with ❤️ by the Aayush Suthar**
   
   ⭐ Star us on GitHub if you find this project useful!
   
